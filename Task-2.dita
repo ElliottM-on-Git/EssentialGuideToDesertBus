@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title>Completing the Game</title>
+    <shortdesc>Once you understand the gameplay, you are set up for hours and hours of fun. However,
+        you may be wondering just when and how the game reaches its end.</shortdesc>
+    <taskbody>
+        <context>
+            <equation-figure>
+                <p>Players reach the conclusion of Desert Bus in one of two ways:<ul
+                        id="ul_gq1_nwh_ghb">
+                        <li>At the completion of one leg of the trip between Tucson, AZ and Las
+                            Vegas, NV, for which players receive one point, they are prompted to
+                            decide whether or not they would like to attempt the trip back for an
+                            additional point. Theoretically, these trips back and forth, and the
+                            awarded points for completing them, can continue until the end of time.
+                            If a player elects not to continue, or does not elect to continue within
+                            a several second window, the game is over and a screen will appear
+                            displaying the players' total points earned. </li>
+                        <li>If the bus veers off the road at any point during play, it will remain
+                            stuck there until a tow truck arrives to bring it back to the
+                            destination from which it left. When the tow truck arrives back at this
+                            destination, the game is over and a screen will appear displaying the
+                            players' total points earned (a point will <b>not</b> be awarded for the
+                            uncompleted trip).</li>
+                    </ul></p>
+            </equation-figure>
+        </context>
+    </taskbody>
+</task>

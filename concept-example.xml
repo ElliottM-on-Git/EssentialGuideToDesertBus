@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<!DOCTYPE concept
+  PUBLIC '-//OASIS//DTD DITA Concept//EN'
+  'dtd1.2/technicalContent/dtd/concept.dtd'>
+
+<concept id="sample_concept" xml:lang="en-US">
+  <title>Desert Bus for Android</title>
+  <shortdesc>The video game Desert Bus has been described as, "the most realistic verisimilitude
+    reality game ever created."</shortdesc>
+  <conbody>
+    <p>Originally a minigame for the unreleased <i>Penn and Teller's Smoke and Mirrors</i> for the
+      short-lived Sega CD, Desert Bus similates a bus' drive between Tucson, Arizona and Las Vegas,
+      Nevada in real time. Players are awarded one point for completing the eight hour trip, during
+      which time the maximum speed of the bus is 45 mph. At the completion of the trip, they are
+      given several seconds to decide whether or not they would like to continue playing, attempting
+      the trip back for an additional point. </p>
+    <p>The game cannot be paused. If the bus veers off the road at any point, a tow truck will come
+      to bring the vehicle back to the city of departure, also in real time, and then the game is
+      over.</p>
+    <p>When the original game developer went of business before the title was officially released to
+      the public, the game was temporarily lost. However, in 2005, a promotional copy began being
+      circulated on the world wide web, leading to Desert Bus gaining a cult following. </p>
+    <p>Rights to the game were eventually purchased by the developer Amateur Pixels and a mobile
+      version was released on all platforms. Today, the game costs $0.99 to download. All proceeds
+      go to charity. </p>
+    <p>It is widely agreed upon by experts that Desert Bus is the greatest video game ever created. </p>
+  </conbody>
+</concept>

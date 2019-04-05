@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC 
+'-//OASIS//DTD DITA Reference//EN' 
+  'dtd1.2/technicalContent/dtd/reference.dtd'>
+
+<!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
+
+<reference id="troubleshooting" xml:lang="en-US">
+  <title>Features</title>
+  <shortdesc>This reference page details some of the additional exciting features of Desert Bus for
+    Android. </shortdesc>
+  <refbody>
+    <section id="section_knk_r42_3hb">
+      <title>Horn</title>
+      <p>You may beep the horn of the bus at any time during your drive by tapping the center of the
+        steering wheel.</p>
+    </section>
+    <section id="section_mvc_z42_3hb">
+      <title>Rearview Mirror</title>
+      <p>To view what is going on in the back of the bus, see the rearview mirror in the top right
+        of your screen. <b>Note:</b> nothing is ever going on in the back of the bus. </p>
+    </section>
+    <section id="section_ytc_mp2_3hb">
+      <title>Clock</title>
+      <p>To view the time of day, see the real time clock in the bottom right corner of your
+        screen.</p>
+    </section>
+  </refbody>
+</reference>

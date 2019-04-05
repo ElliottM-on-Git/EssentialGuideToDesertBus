@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>The Essential Guide to Desert Bus for Android</title>
+ <topicref href="concept-example.xml"/>
+ <topicref href="task-example.xml"/>
+ <topicref href="Task-2.dita"/>
+ <topicref href="reference-example.xml"/>
+</map>

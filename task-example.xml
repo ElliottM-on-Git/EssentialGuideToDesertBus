@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'dtd1.2/technicalContent/dtd/task.dtd'>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<task id="changeoil" xml:lang="en-us">
+  <title>Playing Desert Bus for Android</title>
+  <shortdesc>Once the Desert Bus app is downloaded onto your phone, you are ready to begin playing
+    the game. </shortdesc>
+  <taskbody>
+    <context/>
+    <steps>
+      <stepsection>To play Desert Bus:</stepsection>
+      <step>
+        <cmd>Open the app. The game will open horizontally on your screen.</cmd>
+      </step>
+      <step>
+        <cmd>Tap your screen once to move past each of the introductory images.</cmd>
+      </step>
+      <step>
+        <cmd>The bus will take a moment to start. Once it does, tap your screen to begin your
+          drive.</cmd>
+      </step>
+      <step>
+        <cmd>To accelerate, tap the screen once again and hold. Your finger on the screen will serve
+          as your foot on the gas pedal throughout the duration of your drive. </cmd>
+        <info><image id="image_kv4_vm2_3hb" href="images/DB.png" scale="65"/></info>
+      </step>
+      <step>
+        <cmd>To steer, simply tilt your phone to the right or left.</cmd>
+      </step>
+      <step>
+        <cmd>Focus! Without an alert driver, the bus will veer constantly to the right.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+  <related-links>
+    <link href="Task-2.dita"/>
+  </related-links>
+</task>
