@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Author 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Author 21/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Author 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" xtrc="map:1;3:6" xtrf="file:/C:/Users/Elliott/Desktop/get_started_dita-theworkingbranch/mymap.ditamap"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">The Essential Guide to Desert Bus for Android</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+ <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title ">The Essential Guide to Desert Bus for Android</title>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="sample_concept"><resourceid appid="sample_concept" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Desert Bus for Android</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The video game Desert Bus has been described as, "the most realistic verisimilitude     reality game ever created."</shortdesc></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="changeoil"><resourceid appid="changeoil" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Playing Desert Bus for Android</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Once the Desert Bus app is downloaded onto your phone, you are ready to begin playing     the game. </shortdesc></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Completing the Game</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Once you understand the gameplay, you are set up for hours and hours of fun. However,         you may be wondering just when and how the game reaches its end.</shortdesc></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_4" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="troubleshooting"><resourceid appid="troubleshooting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Features</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This reference page details some of the additional exciting features of Desert Bus for     Android. </shortdesc></topicmeta></topicref>
+</opentopic:map><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" oxy:topicref-class="- map/topicref " class="- topic/topic concept/concept " id="unique_1" nd:nd-id="sample_concept" oid="sample_concept" xml:lang="en-US">
+  <title class="- topic/title ">Desert Bus for Android</title>
+  <shortdesc class="- topic/shortdesc ">The video game Desert Bus has been described as, "the most realistic verisimilitude
+    reality game ever created."</shortdesc>
+  <conbody class="- topic/body  concept/conbody ">
+    <p class="- topic/p ">Originally a minigame for the unreleased <i class="+ topic/ph hi-d/i ">Penn and Teller's Smoke and Mirrors</i> for the
+      short-lived Sega CD, Desert Bus similates a bus' drive between Tucson, Arizona and Las Vegas,
+      Nevada in real time. Players are awarded one point for completing the eight hour trip, during
+      which time the maximum speed of the bus is 45 mph. At the completion of the trip, they are
+      given several seconds to decide whether or not they would like to continue playing, attempting
+      the trip back for an additional point. </p>
+    <p class="- topic/p ">The game cannot be paused. If the bus veers off the road at any point, a tow truck will come
+      to bring the vehicle back to the city of departure, also in real time, and then the game is
+      over.</p>
+    <p class="- topic/p ">When the original game developer went of business before the title was officially released to
+      the public, the game was temporarily lost. However, in 2005, a promotional copy began being
+      circulated on the world wide web, leading to Desert Bus gaining a cult following. </p>
+    <p class="- topic/p ">Rights to the game were eventually purchased by the developer Amateur Pixels and a mobile
+      version was released on all platforms. Today, the game costs $0.99 to download. All proceeds
+      go to charity. </p>
+    <p class="- topic/p ">It is widely agreed upon by experts that Desert Bus is the greatest video game ever created. </p>
+  </conbody>
+</concept><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" oxy:topicref-class="- map/topicref " class="- topic/topic task/task " id="unique_2" nd:nd-id="changeoil" oid="changeoil" xml:lang="en-us">
+  <title class="- topic/title ">Playing Desert Bus for Android</title>
+  <shortdesc class="- topic/shortdesc ">Once the Desert Bus app is downloaded onto your phone, you are ready to begin playing
+    the game. </shortdesc>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context "/>
+    <steps class="- topic/ol task/steps ">
+      <stepsection class="- topic/li task/stepsection ">To play Desert Bus:</stepsection>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Open the app. The game will open horizontally on your screen.</cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Tap your screen once to move past each of the introductory images.</cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">The bus will take a moment to start. Once it does, tap your screen to begin your
+          drive.</cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">To accelerate, tap the screen once again and hold. Your finger on the screen will serve
+          as your foot on the gas pedal throughout the duration of your drive. </cmd>
+        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/C:/Users/Elliott/Desktop/get_started_dita-theworkingbranch/images/DB.png" id="unique_2_Connect_42_image_kv4_vm2_3hb" nd:nd-id="image_kv4_vm2_3hb" placement="inline" width="429" height="241" scale="65"/></info>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">To steer, simply tilt your phone to the right or left.</cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Focus! Without an alert driver, the bus will veer constantly to the right.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_3" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Completing the Game</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Once you understand the gameplay, you are set up for hours and hours of fun. However,         you may be wondering just when and how the game reaches its end.</desc></link>
+  </related-links>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" oxy:topicref-class="- map/topicref " class="- topic/topic task/task " id="unique_3" nd:nd-id="Untitled" oid="Untitled">
+    <title class="- topic/title ">Completing the Game</title>
+    <shortdesc class="- topic/shortdesc ">Once you understand the gameplay, you are set up for hours and hours of fun. However,
+        you may be wondering just when and how the game reaches its end.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <equation-figure class="+ topic/fig equation-d/equation-figure "><p class="- topic/p ">Players reach the conclusion of Desert Bus in one of two ways:<ul class="- topic/ul " id="unique_3_Connect_42_ul_gq1_nwh_ghb" nd:nd-id="ul_gq1_nwh_ghb">
+                        <li class="- topic/li ">At the completion of one leg of the trip between Tucson, AZ and Las
+                            Vegas, NV, for which players receive one point, they are prompted to
+                            decide whether or not they would like to attempt the trip back for an
+                            additional point. Theoretically, these trips back and forth, and the
+                            awarded points for completing them, can continue until the end of time.
+                            If a player elects not to continue, or does not elect to continue within
+                            a several second window, the game is over and a screen will appear
+                            displaying the players' total points earned. </li>
+                        <li class="- topic/li ">If the bus veers off the road at any point during play, it will remain
+                            stuck there until a tow truck arrives to bring it back to the
+                            destination from which it left. When the tow truck arrives back at this
+                            destination, the game is over and a screen will appear displaying the
+                            players' total points earned (a point will <b class="+ topic/ph hi-d/b ">not</b> be awarded for the
+                            uncompleted trip).</li>
+                    </ul></p></equation-figure>
+        </context>
+    </taskbody>
+</task><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" oxy:topicref-class="- map/topicref " class="- topic/topic       reference/reference " id="unique_4" nd:nd-id="troubleshooting" oid="troubleshooting" xml:lang="en-US">
+  <title class="- topic/title ">Features</title>
+  <shortdesc class="- topic/shortdesc ">This reference page details some of the additional exciting features of Desert Bus for
+    Android. </shortdesc>
+  <refbody class="- topic/body        reference/refbody ">
+    <section class="- topic/section " id="unique_4_Connect_42_section_knk_r42_3hb" nd:nd-id="section_knk_r42_3hb">
+      <title class="- topic/title ">Horn</title>
+      <p class="- topic/p ">You may beep the horn of the bus at any time during your drive by tapping the center of the
+        steering wheel.</p>
+    </section>
+    <section class="- topic/section " id="unique_4_Connect_42_section_mvc_z42_3hb" nd:nd-id="section_mvc_z42_3hb">
+      <title class="- topic/title ">Rearview Mirror</title>
+      <p class="- topic/p ">To view what is going on in the back of the bus, see the rearview mirror in the top right
+        of your screen. <b class="+ topic/ph hi-d/b ">Note:</b> nothing is ever going on in the back of the bus. </p>
+    </section>
+    <section class="- topic/section " id="unique_4_Connect_42_section_ytc_mp2_3hb" nd:nd-id="section_ytc_mp2_3hb">
+      <title class="- topic/title ">Clock</title>
+      <p class="- topic/p ">To view the time of day, see the real time clock in the bottom right corner of your
+        screen.</p>
+    </section>
+  </refbody>
+</reference></map>
